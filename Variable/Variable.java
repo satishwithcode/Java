@@ -19,7 +19,6 @@ public class Variable {
         float pi = 3.14F;
         char letter = 's';
         boolean isAdult = true;
-
-        System.out.println("phone");
+        
     }
 }
